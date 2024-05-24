@@ -1,5 +1,5 @@
 Simon Says game! 
-The game starts by lighting up one of the colored buttons and playing the corresponding sound.
+The game starts by lighting up one of the colored buttons.
 The player must press the same button.
 The game then lights up the first button again, followed by a second button, creating a sequence.
 The player must press the buttons in the same order.
